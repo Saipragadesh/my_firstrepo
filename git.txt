@@ -1,0 +1,13 @@
+Repository Setup:
+
+git init - Initialize a new Git repository
+git clone - Copy a repository from remote to local
+File Management:
+git branch - create a new branch
+git add - Add files to staging area
+git commit - Save changes to renete branches
+git checkout - Switch between branches
+git merge - Combine branches
+Remote Operations:
+
+git push - Upload changes to remote repository
