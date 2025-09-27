@@ -9,5 +9,6 @@ git commit - Save changes to renete branches
 git checkout - Switch between branches
 git merge - Combine branches
 Remote Operations:
-
-git push - Upload changes to remote repository
+git push - Upload changes to remote repository new branch
+created new branch and pushed
+ 
